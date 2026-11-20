@@ -1,0 +1,11 @@
+.{
+    .name = .fetch_test,
+    .fingerprint = 0x1c1c6585a08223b1,
+    .version = "0.0.0",
+    .zig_version = "0.17.1",
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{
+        .fetch = .{ .path = ".." },
+    },
+    .paths = .{""},
+}

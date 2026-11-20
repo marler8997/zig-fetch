@@ -1,0 +1,14 @@
+.{
+    .name = .fetch,
+    .fingerprint = 0x82e9634367ff3741,
+    .version = "0.0.0",
+    .zig_version = "0.17.1",
+    .minimum_zig_version = "0.17.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "src",
+        "test",
+    },
+}
